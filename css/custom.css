@@ -1,0 +1,151 @@
+
+$scotch-primary: #52101a;
+$scotch-secondary: #a31f34;
+
+%oswald { font-family: 'Oswald', sans-serif; }
+%roboto { font-family: 'Roboto Condensed', sans-serif; }
+%lato {font-family: 'Lato', sans-serif; }
+
+.custom-caption {
+  color: #aaaaaa;
+  font-size: 12px;
+
+}
+
+.custom-caption a {
+  color: #aaaaaa;
+  text-decoration: underline !important;
+}
+
+.home-container {
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+}
+
+.home-bigtext {
+  font-size: 94px;
+  padding-top: 110px;
+  line-height: 110px;
+}
+
+.home-subtitle {
+  font-size: 28px;
+  padding-top: 45px;
+  padding-bottom: 10px;
+}
+
+.home-chesspieces {
+  padding-bottom: 60px;
+}
+
+.home-piece{
+  width: 50px;
+  height: 50px;
+}
+
+
+.home-cta br {
+  line-height: 80px;
+}
+
+.custom-btn {
+  border-style: solid;
+  border-radius: 15px;
+  border-width: 2px;
+  border-color: black;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 23px;
+}
+
+.custom-btn:hover {
+  color: red;
+  border-color: red;
+}
+
+
+@media only screen and (max-width : 991px) {
+  .home-bigtext {
+    font-size: 72px;
+    line-height: 85px;
+    padding-top: 80px;
+    margin-bottom: 0px;
+  }
+
+  .home-subtitle {
+    font-size: 26px;
+    padding-top: 35px;
+    padding-bottom: 25px;
+    margin-bottom: 0px;
+    line-height: 20px;
+  }
+
+  .home-chesspieces {
+    padding-bottom: 60px;
+  }
+
+  .home-piece{
+    width: 35px;
+    height: 35px;
+  }
+
+
+  .home-cta br {
+    line-height: 60px;
+  }
+
+  .custom-btn {
+    border-radius: 7px;
+    border-width: 1.5px;
+    padding: 7px 16px;
+    font-size: 16px;
+    font-size: 18px;
+  }
+}
+
+@media only screen and (max-width : 480px) {
+
+    .home-bigtext {
+      font-size: 45px;
+      line-height: 55px;
+      padding-top: 40px;
+      margin-bottom: 0px;
+    }
+
+    .home-subtitle {
+      font-size: 16px;
+      padding-top: 25px;
+      padding-bottom: 15px;
+      margin-bottom: 0px;
+      line-height: 20px;
+    }
+
+    .home-chesspieces {
+      padding-bottom: 50px;
+    }
+
+    .home-piece{
+      width: 20px;
+      height: 20px;
+    }
+
+
+    .home-cta br {
+      line-height: 60px;
+    }
+
+    .custom-btn {
+      border-radius: 7px;
+      border-width: 1.5px;
+      padding: 7px 16px;
+      font-size: 16px;
+      font-size: 18px;
+    }
+
+}

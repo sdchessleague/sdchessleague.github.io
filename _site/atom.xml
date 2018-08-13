@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>SD Chess League</title>
+ <link href="https://sdchessleague.org/atom.xml" rel="self"/>
+ <link href="https://sdchessleague.org/"/>
+ <updated>2018-08-12T12:38:12-07:00</updated>
+ <id>https://sdchessleague.org</id>
+ <author>
+   <name></name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Welcome Prefrosh</title>
+   <link href="https://sdchessleague.org/Welcome-Prefrosh.html"/>
+   <updated>2016-08-23T03:26:00-07:00</updated>
+   <id>https://sdchessleague.org/Welcome-Prefrosh</id>
+   <content type="html">&lt;p&gt;We are so excited to welcome all students back for the 2016-2017 academic year! This is going to be an important and historic year for chess at MIT.&lt;/p&gt;
+
+&lt;h1 id=&quot;a-brief-history-of-chess-at-mit&quot;&gt;A Brief History of Chess at MIT&lt;/h1&gt;
+&lt;p&gt;The history of chess predates MIT’s founding by more than 1,000 years. Since ancient times, the “Game of Kings and Queens” has been the pinnacle of intellectual and strategic pursuit. With &lt;a href=&quot;http://www.math.harvard.edu/~elkies/knight.pdf&quot;&gt;mathematical rules&lt;/a&gt; and players such as &lt;a href=&quot;http://www.chessgames.com/player/albert_einstein.html&quot;&gt;Einstein&lt;/a&gt;, it is no wonder that this game of &lt;a href=&quot;http://mathworld.wolfram.com/Chess.html&quot;&gt;perfect information&lt;/a&gt; has attracted MIT students and professors since the very beginning!&lt;/p&gt;
+
+&lt;p&gt;In the late 1700s, the original &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Turk&quot;&gt;Mechanical Turk&lt;/a&gt; (not to be confused with &lt;a href=&quot;https://en.wikipedia.org/wiki/Amazon_Mechanical_Turk&quot;&gt;Amazon’s version&lt;/a&gt;) was &lt;a href=&quot;http://www.slate.com/blogs/atlas_obscura/2015/08/20/the_turk_an_supposed_chess_playing_robot_was_a_hoax_that_started_an_early.html&quot;&gt;scaring people&lt;/a&gt; with its surprisingly powerful “artificial intelligence.” Fast-forwarding a couple hundred years, “In 1962 the first MIT chess program was written. It was the first chess program that played regular chess credibly. It was written by Alan Kotok for his B.S. thesis project, assisted by John McCarthy of Stanford. The program ran on an IBM 7090, looking at 1100 positions per second” – &lt;a href=&quot;https://www.chess.com/article/view/computers-and-chess---a-history&quot;&gt;chess.com&lt;/a&gt;, &lt;a href=&quot;http://www.thebestschools.org/magazine/brief-history-of-computer-chess/&quot;&gt;TBS Magazine&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;MIT has had its fair share of human talent to supplement the silicon. We &lt;a href=&quot;http://tech.mit.edu/archives/VOL_029/TECH_V029_S0442_P001.pdf&quot;&gt;beat&lt;/a&gt; Brown in 1910. In 1966 and 1970, MIT won the &lt;a href=&quot;https://en.wikipedia.org/wiki/Pan_American_Intercollegiate_Team_Chess_Championship&quot;&gt;Pan-American Intercollegiate Chess Championship&lt;/a&gt; and more recently, the chess club was &lt;a href=&quot;http://tech.mit.edu/V123/N10/Chess_clup_fea_.10f.html&quot;&gt;featured in the Tech&lt;/a&gt; for its match against Caltech and its top college honors at the US Amateur East. Recent notable student players have included &lt;a href=&quot;https://en.wikipedia.org/wiki/Steven_Zierk&quot;&gt;IM Steven Zierk&lt;/a&gt;, &lt;a href=&quot;https://no.wikipedia.org/wiki/Katrine_Tj%C3%B8lsen&quot;&gt;WIM Katrine Tjølsen&lt;/a&gt;, and our very own Tech Chess President, &lt;a href=&quot;https://ratings.fide.com/card.phtml?event=2039796&quot;&gt;IM Alexander Katz&lt;/a&gt;. &lt;a href=&quot;https://www.media.mit.edu/people/mashley&quot;&gt;GM Maurice Ashley&lt;/a&gt; is working with the &lt;a href=&quot;http://directorsfellows.media.mit.edu/projects/deep-view-algorithm-enhances-chess-commentary/&quot;&gt;MIT Media Lab for Millionaire Chess&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;whats-new-this-year&quot;&gt;What’s new this year?&lt;/h1&gt;
+&lt;p&gt;The MIT Chess Club re-branded as Tech Chess in the spring semester of 2016, under the new club &lt;a href=&quot;/officers&quot;&gt;leadership&lt;/a&gt;. We will continue to host weekly casual hangouts and tournaments each semester, and we are growing a team to compete in the US Amateur East and Pan-American Intercollegiate Championship. To warm up, we will be holding exhibition matches against local schools and maybe inviting some grandmasters to give lectures or simuls.&lt;/p&gt;
+
+&lt;p&gt;We are currently in the process of obtaining sponsorship and planning out the year. Probably the most exciting part of the year will be your ability to get involved with the club and shape its future! Because we are so young, there is a lot of opportunity for influencing Tech Chess’s growth.&lt;/p&gt;
+
+&lt;p&gt;Want to help us manage sponsor relations? Make/buy &lt;a href=&quot;http://coolmaterial.com/cool-list/12-bad-ass-chess-sets/&quot;&gt;fun stuff&lt;/a&gt;? Travel to Parsippany? Run a chess tournament? Build a website? Learn the bishop + knight checkmate from an International Master? Email us or show up at an event and say hi!&lt;/p&gt;
+
+&lt;h1 id=&quot;what-should-i-do&quot;&gt;What should I do?&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Subscribe to our &lt;a href=&quot;https://mailman.mit.edu:444/mailman/listinfo/tech-chess-announce&quot;&gt;mailing list&lt;/a&gt; below.&lt;/li&gt;
+  &lt;li&gt;Like our &lt;a href=&quot;https://www.facebook.com/mitchessclub&quot;&gt;Facebook page&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Come to our next &lt;a href=&quot;/events&quot;&gt;events&lt;/a&gt; (and add to your google calendar)!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Looking forward to meeting you over the course of the year!&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

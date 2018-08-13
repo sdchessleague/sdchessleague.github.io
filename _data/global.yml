@@ -2,12 +2,4 @@
 title: 'SD Chess League'
 description: 'Building school success through chess.'
 url: 'https://sdchessleague.org' # the base hostname & protocol for your site
-footer_text: ' <br>&mdash;<br><i>Copyright © <a href="mailto:contact@sdchessleague.org" target="_blank">SD Chess League</a> 2018 </i>'
-
-# Admin Settings
-admin_name: 'Tech Chess Exec'
-admin_email: 'techess-exec@mit.edu'
-
-# Links
-team_link: 'https://tech-chess.github.io/team'
-officers_link: 'https://tech-chess.github.io/officers'
+footer_text: ' <br>&mdash;<br> Season 1 <br>2018 &ndash; 2019 <br> <i>Copyright © <a href="mailto:contact@sdchessleague.org" target="_blank">SD Chess League</a><br></i>'

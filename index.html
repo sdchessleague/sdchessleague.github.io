@@ -2,24 +2,46 @@
 layout: home
 ---
 
-<!--<p style="text-align: center;" markdown="1">
-  <iframe src="https://calendar.google.com/calendar/embed?showPrint=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=pvbd80pkmfsl5voauue4vbv61c%40group.calendar.google.com&amp;color=%236B3304&amp;ctz=America%2FNew_York" style="border-width:0" width="100%" height="500px" frameborder="0" scrolling="no"></iframe>
-</p>-->
+<div class="home-container">
 
-<p style="text-align: center;" markdown="1">
-  <img src="img/techess_transparent.png" style="width:100%; padding-top: 75px;"/>
-</p>
+  <p class="home-bigtext" markdown="1">
+    San Diego Chess League
+  </p>
 
-<h1 style="text-align: center; padding-top: 25px; padding-bottom: 70px;" markdown="1">
-  Welcome to the official chess club of MIT!
-</h1>
+  <p class="home-subtitle" markdown="1">
+    <i>Building school success through chess.</i>
+  </p>
+
+  <div class="home-chesspieces">
+    <img src="/img/chesspieces/wikipedia/bR.png" class="home-piece"/>
+    <img src="/img/chesspieces/wikipedia/wN.png" class="home-piece"/>
+    <img src="/img/chesspieces/wikipedia/bB.png" class="home-piece"/>
+    <img src="/img/chesspieces/wikipedia/wQ.png" class="home-piece"/>
+    <img src="/img/chesspieces/wikipedia/bK.png" class="home-piece"/>
+    <img src="/img/chesspieces/wikipedia/wK.png" class="home-piece"/>
+    <img src="/img/chesspieces/wikipedia/bQ.png" class="home-piece"/>
+    <img src="/img/chesspieces/wikipedia/wB.png" class="home-piece"/>
+    <img src="/img/chesspieces/wikipedia/bN.png" class="home-piece"/>
+    <img src="/img/chesspieces/wikipedia/wR.png" class="home-piece"/>
+  </div>
+
+  <div class="home-cta">
+    <a class="custom-btn" href="/about">What's the deal?</a><br>
+    <a class="custom-btn" href="/join">Join the League!</a><br>
+    <a class="custom-btn" href="/partners">Support our cause.</a><br>
+  </div>
+
+</div>
+
 
 <!--
-<p style="text-align: center; padding-top: 50px;" markdown="1">
-  <a href="https://mailman.mit.edu:444/mailman/listinfo/tech-chess-announce" target="_blank"><button>Subscribe to Mailing List</button></a>  |  <a href="/events"><button>View Upcoming Events</button></a>
-</p>
--->
 
-<!--
-<div style="text-align: center;" class="fb-page" data-href="https://www.facebook.com/mitchessclub" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/mitchessclub" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/mitchessclub">MIT Chess Club</a></blockquote></div>
--->
+      <div class="col-md-10 col-md-offset-1">
+        {% for post in paginator.posts %}
+            {% include tile.html %}
+        {% endfor %}
+
+        {% include pagination.html %}
+      </div>
+
+    -->

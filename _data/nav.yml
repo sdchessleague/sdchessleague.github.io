@@ -1,8 +1,6 @@
 main:
     - { url: '/about', text: 'About' }
-    - { url: '/', text: 'Blog' }
-    - { url: '/contact', text: 'Contact' }
-    - { url: '/events', text: 'Events' }
-    - { url: '/officers', text: 'Officers' }
-    - { url: '/sponsors', text: 'Sponsors' }
-    - { url: '/team', text: 'Team' }
+    - { url: '/calendar', text: 'Calendar' }
+    - { url: '/join', text: 'Join' }
+    - { url: '/partners', text: 'Partners' }
+    - { url: '/resources', text: 'Resources' }
