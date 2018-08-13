@@ -12,10 +12,15 @@ lead_text: 'Our mission is to build a thriving chess community accessible to all
 
 # What do we do?
 
-We run 
+Starting in August 2018, we are creating and growing a high school chess league based in downtown San Diego. We 
 
 # Why is chess related to success?
 
+Generally
+
+Professionally
+
+Academically
 
 # Who are we?
 
