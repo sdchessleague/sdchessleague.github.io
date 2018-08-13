@@ -2,12 +2,8 @@
 layout: inner
 title: Calendar
 permalink: /calendar/
+lead_text: 'calendar coming soon'
 ---
-
-# Upcoming Events
-
-Calendar coming soon...currently finalizing season details.
-
 
 ## Suggestions?
 
