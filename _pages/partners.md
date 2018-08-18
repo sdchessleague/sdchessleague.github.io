@@ -5,6 +5,10 @@ permalink: /partners/
 lead_text: 'We thank our generous partners for their support.'
 ---
 
+To join us in our mission, please read our <a href="https://sdchessleague.org/img/sponsor/SD Chess League Partner Sponsor Packet.pdf" target="_blank">2018-2019 Partner and Sponsor Packet</a>.
+
+
+<!--
 <h1 id="platinum" style="color:#cdffff;text-align:center;" markdown="1">
   GRANDMASTER
 </h1>
@@ -22,10 +26,4 @@ lead_text: 'We thank our generous partners for their support.'
 
 <h4 style="color:#e78000;text-align:center;padding-top:35px;" markdown="1">
   PATZER
-</h4>
-
-<img src="/img/sponsor/JaneStreet_1.jpeg" style="width:100%;" markdown="1">
-<br>
-<img src="/img/sponsor/sig.gif" style="width:100%;" markdown="1">
-<br>
-<img src="/img/sponsor/twosigma.jpg" style="width:100%;" markdown="1">
+</h4>-->
