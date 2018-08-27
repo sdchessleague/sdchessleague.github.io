@@ -1,7 +1,7 @@
 ---
 ---
-@import '../_sass/bootstrap';
-@import '../_sass/syntax-highlighting';
+@import url('http://sdchessleague.org/_sass/bootstrap');
+@import url('http://sdchessleague.org/_sass/syntax-highlighting');
 
 $scotch-primary: #52101a;
 $scotch-secondary: #a31f34;
